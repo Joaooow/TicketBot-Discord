@@ -10,4 +10,4 @@ Olá, este bot foi desenvolvido especialmente para **Liga Brasileira de FiveM**.
 
 ## Observações
 
-Tenho total ciencia que o codigo poderia ser desenvolvido de melhor forma e reduzida porem nunca estudei programação e nenhum tipo de linguagem, fiz este projeto sozinho baseado em pesquisas no: Google, Youtube, Github e tambem lendo as documentações no discord.js.org e tambem https://www.npmjs.com/package/hastebin
+Tenho total ciencia que o codigo poderia ser desenvolvido de melhor forma e reduzida porem nunca estudei programação e nenhum tipo de linguagem, fiz este projeto sozinho baseado em pesquisas no: Google, Youtube, Github e tambem lendo as documentações no https://www.discord.js.org e tambem https://www.npmjs.com/package/hastebin
